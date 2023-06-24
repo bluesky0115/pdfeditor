@@ -12,7 +12,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone https://github.com/TimZeng/pdf-editor.git
-	> cd pdf-editor
+	> cd pdf-editor                   
 	> npm install
 	> npm run dev
 ```
